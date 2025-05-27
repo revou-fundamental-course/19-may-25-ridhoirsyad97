@@ -1,7 +1,7 @@
 
 /**
  * 
- * @author Niaz
+ * @author ridhoirsyad97
  * @name script.js
  * @description Melakukan kalkulasi suhu Celsius, Fahrenheit, Reamur, dan Kelvin
  *  
